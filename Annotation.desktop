@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Annotation
+GenericName=Annotation
+Comment=Ajoute une annotation
+Icon=access
+Exec=/usr/bin/annotate.sh
+Terminal=true
+Type=Application
+
